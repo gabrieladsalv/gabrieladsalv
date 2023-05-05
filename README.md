@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **javascript & angular**
 
-- 👨‍💻 All of my mini projects are available at [https://github.com/gabrieldsalv-projects?tab=repositories](https://github.com/gabrieldsalv-projects?tab=repositories)
+- 👨‍💻 All of my mini projects are available at [https://github.com/gabrieldsalv-projects?tab=repositories](https://github.com/gabrieldsalv-projects?tab=repositories) or are available at [https://replit.com/@gabrieldsalv](https://replit.com/@gabrieldsalv)
 
 - 📚 I've studied **HTML/CSS | PHP | Python | etc**
 
