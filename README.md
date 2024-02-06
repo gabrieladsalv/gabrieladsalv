@@ -1,29 +1,33 @@
-# 👋 Olá, eu sou Gabriel
+# 👋 Hi, I'm Gabriela (also known as Gabi)
 
-## 🚀 Sobre Mim
+## 🚀 About me
 
-Eu atualmente estou apaixonado pela área de cybersegurança. Contudo, comecei pela programação então estudei e tenho experiência com projetos em python, javascript (html/css), java, php e estou sempre em busca de aprender coisas novas. Meu próximo objetivo é ver mais sobre golang. Quanto à cybersegurança, estou fazendo cursos e me especializando. Também estou aberto a trabalhos, mesmo que não remunerados, pois quero ter mais experiências.
+I'm really passionate about the field of cybersecurity right now. I actually started out in programming, so I know my way around Python, Javascript (HTML/CSS), Java, PHP, and I'm always eager to learn new things. My next goal is to dive deeper into Golang. On the cybersecurity front, I'm taking courses and honing my skills. I'm also open to job opportunities, even if they're unpaid, because I want to gain more experience
 
-## 🌱 Atualmente Aprendendo
+## 🌱 Currently Studying
 
-Estou dedicando tempo para aprimorar minhas habilidades em python e pentest. 
+I'm dedicating time to improving my python and pentest skills.
 
-## 📫 Como Entrar em Contato
+## 📫 How to Get in Touch with me
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gabrieldsalvarenga/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gabrieladsalvarenga/)
 - E-mail: [E-mail](mailto:gabriel.dsalvarenga@gmail.com)
-- Github para projetos pequenos: [Github Mini](https://github.com/gabrieldsalv-projects)
+- Github for minor projects: [other Github](https://github.com/gabrieladsalv-projects)
 
-## 📈 Estatísticas do GitHub
+## 📈 Github Statistics
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrieldsalv&show_icons=true&count_private=true)
+<a href="https://github.com/gabrieladsalv/gabrieladsalv">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=gabrieladsalv&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/gabrieladsalv/gabrieladsalv">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieladsalv&hide_progress=true" />
+</a>
 
-![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldsalv)
+## ⚡ Curiosities
 
-## ⚡ Curiosidades
-
-- Estou há alguns anos entre indo e vindo a área de TI, mas sempre acabo retornando por ser um dos meus hiperfocos. Não sei dizer quantas vezes já virei a noite codando algum projeto aleatório e a satisfação que isso me traz. Ultimamente estou mais para a área de cybersegurança, aprendendo sobre varreduras e enumerações e me sinto feliz com essa escolha.
+- I've been in and out of the IT world for a few years now, but I always end up coming back to it because it's one of my obsessions. I can't even count how many times I've pulled all-nighters coding some random project, but it's such a rush when I finally get it done. Lately, I'm leaning more towards cybersecurity, learning about scans and enumerations and loving every minute of it.
+- As a neurodivergent person (autistic with ADHD), since my teenage years I have my hyperfixations in the IT field, and quite often, I lose track of time and end up spending days on the same project without even realizing it. I still can't say whether this is a quality or a flaw.
 
 <div align="center">
-  Feito com ❤️
+  Made with ❤️
 </div>
