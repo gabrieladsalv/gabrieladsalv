@@ -11,7 +11,7 @@ I'm dedicating time to improving my python and pentest skills.
 ## 📫 How to Get in Touch with me
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/gabrieladsalvarenga/)
-- E-mail: [E-mail](mailto:gabriel.dsalvarenga@gmail.com)
+- E-mail: [E-mail](mailto:gabrielasalvarenga2@gmail.com)
 - Github for minor projects: [other Github](https://github.com/gabrieladsalv-projects)
 
 ## 📈 Github Statistics
